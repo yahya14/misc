@@ -10,17 +10,17 @@ If you're curious of the source of this guide which is heavily recycled because 
 ## Part I: Enable the Wireless Hosted Network
 In a nutshell, the old hotspot method from settings doesn't work anymore, so we're going to use another type of hotspot built into Windows.
 
-#### 1. First, right-click on the **Start button** then open Device Manager
+#### 1. First, right-click on the **Start button** then open Device Manager.
 <p align="left">
   <img src="https://i.imgur.com/QwWznKU.png" alt="Start Button"/>
 </p>
 
-#### 2. Downgrade your wireless card to the lowest version
+#### 2. Downgrade your wireless card to the lowest version.
 <p align="left">
   <img src="https://i.imgur.com/DosTRIa.png" width="58%" height="58%" alt="wireless card"/>
 </p>
 
-#### 3. Open Command Prompt and check if the hosted network is enabled
+#### 3. Open Command Prompt and check if the hosted network is enabled.
 
 Enter the following command `netsh wlan show drivers` and if the hosted network support says **Yes**, we can continue! If not, you might be out of luck.
 
@@ -28,20 +28,20 @@ Enter the following command `netsh wlan show drivers` and if the hosted network 
   <img src="https://i.imgur.com/1A15gQt.png" width="75%" height="75%" alt="cmd"/>
 </p>
 
-## Part II: Installing VPN Gate
+## Part II: Installing the VPN Client
 #### 1. Download [VPN Client by clicking here](https://goo.gl/Rejwd6)
 <p align="left">
   <img src="https://i.imgur.com/XseCKqY.png" width="70%" height="70%" alt="vpngate"/>
 </p>
 
-#### 2. Extract and install VPN Client + Gate Plugin
+#### 2. Extract and install VPN Client + Gate Plugin.
 
 <p align="left">
   <img src="https://i.imgur.com/46yQyEG.png" alt="install-1">
   <img src="https://i.imgur.com/Q5R7wcI.png" alt="install-2"/>
 </p>
 
-#### 3. In the installation, select SoftEther VPN Client
+#### 3. In the installation, select SoftEther VPN Client.
 
 <p align="left">
   <img src="https://i.imgur.com/VmPB7JC.png" width="60%" height="60%" alt="install-3"/>
@@ -97,6 +97,7 @@ Enter the following command `netsh wlan show drivers` and if the hosted network 
 Hey, I know the process is very long but we're almost there!
 
 ## Part IV: Installing the Hosted Network Manager
+
 #### 1.	Download and extract the Hosted Network Manager zip file [here](https://www.brainbytez.nl/wlan-hosted-network-manager/) then run as administrator.
 
 <p align="left">
