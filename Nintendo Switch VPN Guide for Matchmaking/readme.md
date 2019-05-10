@@ -28,7 +28,7 @@ Enter the following command `netsh wlan show drivers` and if the hosted network 
   <img src="https://i.imgur.com/1A15gQt.png" width="75%" height="75%" alt="cmd"/>
 </p>
 
-## Part II: Install the VPN Client
+## Part II: Install the VPN Gate
 #### 1. Download [VPN Client by clicking here](https://goo.gl/Rejwd6)
 <p align="left">
   <img src="https://i.imgur.com/XseCKqY.png" width="70%" height="70%" alt="vpngate"/>
