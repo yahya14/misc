@@ -28,7 +28,7 @@ Enter the following command `netsh wlan show drivers` and if the hosted network 
   <img src="https://i.imgur.com/1A15gQt.png" width="75%" height="75%" alt="cmd"/>
 </p>
 
-## Part II: Installing the VPN Client
+## Part II: Install the VPN Client
 #### 1. Download [VPN Client by clicking here](https://goo.gl/Rejwd6)
 <p align="left">
   <img src="https://i.imgur.com/XseCKqY.png" width="70%" height="70%" alt="vpngate"/>
@@ -96,7 +96,7 @@ Enter the following command `netsh wlan show drivers` and if the hosted network 
 
 Hey, I know the process is very long but we're almost there!
 
-## Part IV: Installing the Hosted Network Manager
+## Part IV: Install the Hosted Network Manager
 
 #### 1.	Download and extract the Hosted Network Manager zip file [here](https://www.brainbytez.nl/wlan-hosted-network-manager/) then run as administrator.
 
