@@ -1,4 +1,4 @@
-# Nintendo Switch VPN Guide for Matchmaking
+Aw# Nintendo Switch VPN Guide for Matchmaking
 
 So we finally have a nice guide on the internet that can help you connect your switch on a VPN network. The biggest advantage to VPN is the ability to change regional matchmaking in a game, and the perfect example of this is to join **Japanese lobbies** in Splatoon 2!
 
@@ -138,7 +138,7 @@ Connect your Nintendo Switch to your computer’s hotspot (hosted network) and s
     Yes Q.A is expected to be updated when needed.
 
 ### Where can I contact you?
-    DM me on Discord if you have any questions @Yahya14#0276
+    DM me on Discord if you have any questions @Yuya#0276
     or DM me on twitter: https://twitter.com/yahtzee_14.
 
 ## Credits
